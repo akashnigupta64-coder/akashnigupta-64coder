@@ -29,7 +29,7 @@ Currently transitioning my career from **finance/accounting** into **Data Analyt
 ---
 
 ## 📜 Certificates
-- **[Data Analysis Using Excel](https://www.mygreatlearning.com/certificate/OVFILBW)** – Great Learning 
+- **[Data Analysis Using Excel](https://www.mygreatlearning.com/certificate/OVFILBWE)** – Great Learning 
 
 ---
 
