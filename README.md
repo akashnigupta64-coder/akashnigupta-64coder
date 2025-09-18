@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akashni  
 
-🎓 **B.Com Graduate** | 📊 **Aspiring Data Analyst** | 🧮 **Junior Accountant**  
+📊 **Aspiring Data Analyst** |🎓 **B.Com Graduate** | 🧮 **Junior Accountant**  
 
 I’m passionate about **turning data into insights** and using analytics to solve real-world problems.  
 Currently transitioning my career from **finance/accounting** into **Data Analytics**.  
@@ -30,6 +30,7 @@ Currently transitioning my career from **finance/accounting** into **Data Analyt
 
 ## 📜 Certificates
 - **[Data Analysis Using Excel](https://www.mygreatlearning.com/certificate/OVFILBWE)** – Great Learning 
+- **[Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/1CGPXYWA3FWV)** - Google
 
 ---
 
