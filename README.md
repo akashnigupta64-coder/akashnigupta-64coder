@@ -22,7 +22,7 @@ Currently transitioning my career from **finance/accounting** into **Data Analyt
 ---
 
 ## 📂 Featured Projects  
-- 📊 **[Excel Dashboard Project](https://docs.google.com/spreadsheets/d/13D8op1848VoLJC2i5AfrIwb3-l4VJ4Lo/edit?usp=drive_link&ouid=114956198878995912072&rtpof=true&sd=true)** – Interactive dashboard for business insights  
+- 📊 **[Excel Dashboard Project](Sales_Dashboard.xlsx)** – Interactive dashboard for business insights  
 - ⏱️ **[Attendance Tracker](#)** – Automated attendance system in Excel  
 - 📈 **More Data Analytics projects coming soon...**  
 
